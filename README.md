@@ -5,5 +5,5 @@
     Run Feature_Extractor_audio.py to extract melspectrogram tensors from the above extracted audio clips.
     Run ModelTraining.py to train and generate samples from the trained diffusion model.
 
-### Detailed Report
-    [Please follow the link for a detailed report on the project](cap6617fa24_project_breaking the fourth wall.pdf)
+## Detailed Report
+See Detailed Report [here](cap6617fa24_project_breaking%20the%20fourth%20wall.pdf)
